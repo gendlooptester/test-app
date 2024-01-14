@@ -1,7 +1,7 @@
-# RepoName
+# test-app
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/test-app
 ```
